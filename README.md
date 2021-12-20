@@ -94,12 +94,18 @@ This directory contains a collection of files, functions, structs and scripts us
 **Read or watch**:
 
 [The Python tutorial (only the first three chapters below)](https://intranet.hbtn.io/rltoken/3mNweasE_b9U8vtCCFVB2g)
+
 [Whetting Your Appetite](https://intranet.hbtn.io/rltoken/FRNro28k4Q_zlkpW_si2pw)
+
 [Using the Python Interpreter](https://intranet.hbtn.io/rltoken/M04rBQ5xGZtZ9yjaZsHxcA)
+
 [An Informal Introduction to Python (Read up until “3.1.2. Strings” included)](https://intranet.hbtn.io/rltoken/zVN1z9aa8L8jBhSp2AdbHw)
-How To Use String Formatters in Python 3[(https://intranet.hbtn.io/rltoken/z6mk3Yep2tJVSF6KsBAYrg)]
-Learn to Program[(https://intranet.hbtn.io/rltoken/gYgGXOth8N16KjUpXgO1uQ)]
-Pycodestyle – Style Guide for Python Code[(https://intranet.hbtn.io/rltoken/fSEQ7fsRWu0uFg_wRR4KhQ)]
+
+[How To Use String Formatters in Python 3](https://intranet.hbtn.io/rltoken/z6mk3Yep2tJVSF6KsBAYrg)
+
+[Learn to Program](https://intranet.hbtn.io/rltoken/gYgGXOth8N16KjUpXgO1uQ)
+
+[Pycodestyle – Style Guide for Python Code](https://intranet.hbtn.io/rltoken/fSEQ7fsRWu0uFg_wRR4KhQ)
 
 **Read or watch** :
 
