@@ -39,6 +39,7 @@ This directory contains a collection of files, functions, structs and scripts us
 ## Dependences 
 	
 > [0-run](https://github.com/Imanolasolo/holbertonschool-low_level_programming/blob/main/0x02-functions_nested_loops/main.h) --> Shell script that runs a Python script
+	
 > [README.md](https://github.com/Imanolasolo/holbertonschool-low_level_programming/blob/main/0x02-functions_nested_loops/0-putchar.c) ---> README file to show the project insights. 
 
 >[1-run_inline](https://github.com/Imanolasolo/holbertonschool-low_level_programming/blob/main/0x02-functions_nested_loops/0-putchar.c) ---> Shell script that runs Python code.
