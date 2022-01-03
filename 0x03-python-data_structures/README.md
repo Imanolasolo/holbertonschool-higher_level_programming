@@ -1,4 +1,4 @@
-# 0x02. Python - import & modules
+# 0x03. Python - Data Structures: Lists, Tuples
 
 <div style="text-align: justify">
 
@@ -26,86 +26,53 @@ This directory contains a collection of files, functions, structs and scripts us
 	Contents:
 
 Why Python programming is awesome
-How to import functions from another file
-How to use imported functions
-How to create a module
-How to use the built-in function dir()
-How to prevent code in your script from being executed when imported
-How to use command line arguments with your Python program
+What are lists and how to use them
+What are the differences and similarities between strings and lists
+What are the most common methods of lists and how to use them
+How to use lists as stacks and queues
+What are list comprehensions and how to use them
+What are tuples and how to use them
+When to use tuples versus lists
+What is a sequence
+What is tuple packing
+What is sequence unpacking
+What is the del statement and how to use it
 	
 ## Dependences 
 	
-> [0-add.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x02-python-import_modules/0-add.py) --> Program that imports the function `def add(a, b):` from the file `add_0.py` and prints the result of the addition `1 + 2 = 3`
+> [0-print_list_integer.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py) --> Function that prints all integers of a list
 
-> [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x02-python-import_modules/README.md) ---> README file to show the project insights. 
+> [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/README.md) ---> README file to show the project insights. 
 
->[1-calculation.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x02-python-import_modules/1-calculation.py) ---> Program that imports functions from the file `calculator_1.py`, does some Maths, and prints the result.
+>[1-element_at.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py) ---> Function that retrieves an element from a list like in C.
 
->[2-args.pypy](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x02-python-import_modules/2-args.py) ---> Program that prints the number of and the list of its arguments.
+>[2-replace_in_list.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/2-replace_in_list.py) ---> Function that replaces an element of a list at a specific position (like in C).
 
->[3-infinite_add.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x02-python-import_modules/3-infinite_add.py)--> Program that prints the result of the addition of all arguments
+>[3-print_reversed_list_integer.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/3-print_reversed_list_integer.py)--> Function that prints all integers of a list, in reverse order.
 	
->[4-hidden_discovery.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x02-python-import_modules/4-hidden_discovery.py)--> Program that prints all the names defined by the compiled module [hidden_4.pyc](https://github.com/holbertonschool/0x02.py/raw/master/hidden_4.pyc "hidden_4.pyc") (please download it locally).
+>[4-new_in_list.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py)--> function that replaces an element in a list at a specific position without modifying the original list (like in C).
+
+>[5-no_c.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py)--> Function that removes all characters c and C from a string.
 	
->[5-variable_load.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x02-python-import_modules/5-variable_load.py)--> Program that imports the variable `a` from the file `variable_load_5.py` and prints its value.
+>[6-print_matrix_integer.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py)-->  Function that prints a matrix of integers.
 	
->[100-my_calculator.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py))-->  Program that imports all functions from the file `calculator_1.py` and handles basic operations.
+>[7-add_tuple.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py)--> Function that adds 2 tuples.
 	
->[101-easy_print.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x02-python-import_modules/101-easy_print.py)--> Program that prints `#pythoniscool`, followed by a new line, in the standard output.
-	
->[102-magic_calculation.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x02-python-import_modules/102-magic_calculation.py)-> Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
+>[8-multiple_returns.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/8-multiple_returns.py)-> Function that returns a tuple with the length of a string and its first character.
 
-```
-  3           0 LOAD_CONST               1 (0)
-              3 LOAD_CONST               2 (('add', 'sub'))
-              6 IMPORT_NAME              0 (magic_calculation_102)
-              9 IMPORT_FROM              1 (add)
-             12 STORE_FAST               2 (add)
-             15 IMPORT_FROM              2 (sub)
-             18 STORE_FAST               3 (sub)
-             21 POP_TOP
+>[9-max_integer.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/9-max_integer.py)---> Function that finds the biggest integer of a list.
 
-  4          22 LOAD_FAST                0 (a)
-             25 LOAD_FAST                1 (b)
-             28 COMPARE_OP               0 (<)
-             31 POP_JUMP_IF_FALSE       94
+>[10-divisible_by_2.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/10-divisible_by_2.py)-->function that finds all multiples of 2 in a list. 
 
-  5          34 LOAD_FAST                2 (add)
-             37 LOAD_FAST                0 (a)
-             40 LOAD_FAST                1 (b)
-             43 CALL_FUNCTION            2 (2 positional, 0 keyword pair)
-             46 STORE_FAST               4 (c)
+>[11-delete_at.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py)--> Function that deletes the item at a specific position in a list.
 
-  6          49 SETUP_LOOP              38 (to 90)
-             52 LOAD_GLOBAL              3 (range)
-             55 LOAD_CONST               3 (4)
-             58 LOAD_CONST               4 (6)
-             61 CALL_FUNCTION            2 (2 positional, 0 keyword pair)
-             64 GET_ITER
-        >>   65 FOR_ITER                21 (to 89)
-             68 STORE_FAST               5 (i)
+>[12-switch.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py)-->Complete the source code in order to switch value of a and b
 
-  7          71 LOAD_FAST                2 (add)
-             74 LOAD_FAST                4 (c)
-             77 LOAD_FAST                5 (i)
-             80 CALL_FUNCTION            2 (2 positional, 0 keyword pair)
-             83 STORE_FAST               4 (c)
-             86 JUMP_ABSOLUTE           65
-        >>   89 POP_BLOCK
+You can find the source code [here](https://github.com/holbertonschool/0x03.py)
 
-  8     >>   90 LOAD_FAST                4 (c)
-             93 RETURN_VALUE
+>[13-is_palindrome.c](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/13-is_palindrome.c)-->Write a function in C that checks if a singly linked list is a palindrome.
 
- 10     >>   94 LOAD_FAST                3 (sub)
-             97 LOAD_FAST                0 (a)
-            100 LOAD_FAST                1 (b)
-            103 CALL_FUNCTION            2 (2 positional, 0 keyword pair)
-            106 RETURN_VALUE
-            107 LOAD_CONST               0 (None)
-            110 RETURN_VALUE
-```
-	
->[103-fast_alphabet.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x02-python-import_modules/103-fast_alphabet.py)---> Program that prints the alphabet in uppercase, followed by a new line.
+>[lists.h](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/lists.h)-->Header file containing files and functions used in C scripts
 	
 
 
@@ -118,18 +85,46 @@ How to use command line arguments with your Python program
 	
 > Run the executable files with `./` followed with the `.py` file
 
+> Compile C scripts with `gcc -Wall -Werror -Wextra -pedantic 13-main.c linked_lists.c 13-is_palindrome.c -o palindrome`
+
+>Run C scripts with `./`followed with c file name
+
 
 
 ## Builtins
 ```
-	def add(a,b):
+	def print_list_integer(my_list=[]):
 	
-	def magic_calculation(a, b):
+	def element_at(my_list, idx):
+
+     def replace_in_list(my_list, idx, element):
+
+     def print_reversed_list_integer(my_list=[]):
+
+     def new_in_list(my_list, idx, element):
+
+     def no_c(my_string):
+
+     def print_matrix_integer(matrix=[[]]):
+
+     def add_tuple(tuple_a=(), tuple_b=()):
+
+     def multiple_returns(sentence):
+
+     def max_integer(my_list=[]):
+
+     def divisible_by_2(my_list=[]):
+
+     def delete_at(my_list=[], idx=0):
+
+     int is_palindrome(listint_t **head); (for C script)
+
+
 ```	
 		
 ## Man page
 
--  `python3`
+-  No man page
 
 ## Flowchart
 	
@@ -139,13 +134,9 @@ How to use command line arguments with your Python program
 
 **Read or watch**:
 
-[Modules](https://intranet.hbtn.io/rltoken/4SOY6RYv_fYUM-4NNB3Abg)
-[Command line arguments](https://intranet.hbtn.io/rltoken/pIjNhhRLMFfHoqcTM7u3_A)
-[Pycodestyle – Style Guide for Python Code](https://intranet.hbtn.io/rltoken/ngVTmU2SAH3NW1Z2IGqmLA)
-man or help:
-
-python3
-
+[3.1.3. Lists](https://intranet.hbtn.io/projects/241#:~:text=3.1.3.%20Lists,Program%206%20%3A%20Lists)
+[Data structures (until 5.3. Tuples and Sequences included)](https://intranet.hbtn.io/rltoken/gUEiytlF3ZgpQ8W9MXzQKw)
+[Learn to Program 6 : Lists](https://intranet.hbtn.io/rltoken/smot10KJXMP-a84UxJ7WrQ)
 **Read or watch** :
 
 [![M](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/80px-Google_2015_logo.svg.png)](https://www.google.com/search?q=Writing+a+shell+in+C&sa=X&ved=2ahUKEwi6vIn-nrr0AhWbTDABHUjrAxwQ1QJ6BAgLEAE&biw=1378&bih=708&dpr=1.25)
