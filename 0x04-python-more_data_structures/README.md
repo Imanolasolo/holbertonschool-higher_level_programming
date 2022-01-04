@@ -1,4 +1,4 @@
-# 0x03. Python - Data Structures: Lists, Tuples
+# 0x04. Python - More Data Structures: Set, Dictionary
 
 <div style="text-align: justify">
 
@@ -26,53 +26,64 @@ This directory contains a collection of files, functions, structs and scripts us
 	Contents:
 
 Why Python programming is awesome
-What are lists and how to use them
-What are the differences and similarities between strings and lists
-What are the most common methods of lists and how to use them
-How to use lists as stacks and queues
-What are list comprehensions and how to use them
-What are tuples and how to use them
-When to use tuples versus lists
-What is a sequence
-What is tuple packing
-What is sequence unpacking
-What is the del statement and how to use it
+
+What are sets and how to use them
+
+What are the most common methods of set and how to use them
+
+When to use sets versus lists
+
+How to iterate into a set
+
+What are dictionaries and how to use them
+
+When to use dictionaries versus lists or sets
+
+What is a key in a dictionary
+
+How to iterate over a dictionary
+
+What is a lambda function
+
+What are the map, reduce and filter functions
+
 	
 ## Dependences 
 	
-> [0-print_list_integer.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py) --> Function that prints all integers of a list
+> [0-square_matrix_simple.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py) --> Function that computes the square value of all integers of a matrix.
 
 > [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/README.md) ---> README file to show the project insights. 
 
->[1-element_at.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py) ---> Function that retrieves an element from a list like in C.
+>[1-search_replace.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py) ---> Function that replaces all occurrences of an element by another in a new list.
 
->[2-replace_in_list.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/2-replace_in_list.py) ---> Function that replaces an element of a list at a specific position (like in C).
+>[2-uniq_add.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/2-replace_in_list.py) ---> Function that adds all unique integers in a list (only once for each integer).
 
->[3-print_reversed_list_integer.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/3-print_reversed_list_integer.py)--> Function that prints all integers of a list, in reverse order.
+>[ 3-common_elements.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/3-print_reversed_list_integer.py)--> Function that returns a set of common elements in two sets.
 	
->[4-new_in_list.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py)--> function that replaces an element in a list at a specific position without modifying the original list (like in C).
+>[4-only_diff_elements.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py)--> function that returns a set of all elements present in only one set.
 
->[5-no_c.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py)--> Function that removes all characters c and C from a string.
+>[File: 5-number_keys.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py)--> Function that that returns the number of keys in a dictionary.
 	
->[6-print_matrix_integer.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py)-->  Function that prints a matrix of integers.
+>[6-print_sorted_dictionary.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py)-->  Function that prints a a dictionary by ordered keys.
+
 	
->[7-add_tuple.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py)--> Function that adds 2 tuples.
+>[7-update_dictionary.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py)--> Function that that replaces or adds key/value in a dictionary.
 	
->[8-multiple_returns.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/8-multiple_returns.py)-> Function that returns a tuple with the length of a string and its first character.
+>[8-simple_delete.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/8-multiple_returns.py)-> Function that deletes a key in a dictionary
 
->[9-max_integer.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/9-max_integer.py)---> Function that finds the biggest integer of a list.
+>[9-multiply_by_2.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/9-max_integer.py)---> Function that returns a new dictionary with all values multiplied by 2
 
->[10-divisible_by_2.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/10-divisible_by_2.py)-->function that finds all multiples of 2 in a list. 
+>[10-best_score.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/10-divisible_by_2.py)-->Function that returns a key with the biggest integer value.
 
->[11-delete_at.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py)--> Function that deletes the item at a specific position in a list.
+>[11-multiply_list_map.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py)--> Function that  returns a list with all values multiplied by a number without using any loops
 
->[12-switch.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py)-->Complete the source code in order to switch value of a and b
+>[12-roman_to_int.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py)--> Function that converts a Roman numeral to an integer
 
-You can find the source code [here](https://github.com/holbertonschool/0x03.py)
+>[100-weight_average.py]()--> Function that returns the weighted average of all integers tuple (score, weight)
 
->[13-is_palindrome.c](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/13-is_palindrome.c)-->Write a function in C that checks if a singly linked list is a palindrome.
+>[101-square_matrix_map.py]()--> function that computes the square value of all integers of a matrix using map
 
->[lists.h](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/lists.h)-->Header file containing files and functions used in C scripts
+>[102-complex_delete.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/lists.h)-->Function that deletes keys with a specific value in a dictionary
 	
 
 
@@ -85,39 +96,43 @@ You can find the source code [here](https://github.com/holbertonschool/0x03.py)
 	
 > Run the executable files with `./` followed with the `.py` file
 
-> Compile C scripts with `gcc -Wall -Werror -Wextra -pedantic 13-main.c linked_lists.c 13-is_palindrome.c -o palindrome`
 
->Run C scripts with `./`followed with c file name
 
 
 
 ## Builtins
 ```
-	def print_list_integer(my_list=[]):
+	def square_matrix_simple(matrix=[]):
 	
-	def element_at(my_list, idx):
+	def search_replace(my_list, search, replace):
 
-     def replace_in_list(my_list, idx, element):
+     def uniq_add(my_list=[]):
 
-     def print_reversed_list_integer(my_list=[]):
+     def common_elements(set_1, set_2):
 
-     def new_in_list(my_list, idx, element):
+     def only_diff_elements(set_1, set_2):
 
-     def no_c(my_string):
+     def number_keys(a_dictionary):
 
-     def print_matrix_integer(matrix=[[]]):
+     def print_sorted_dictionary(a_dictionary):
 
-     def add_tuple(tuple_a=(), tuple_b=()):
+     def update_dictionary(a_dictionary, key, value):
 
-     def multiple_returns(sentence):
+     def simple_delete(a_dictionary, key=""):
 
-     def max_integer(my_list=[]):
+     def multiply_by_2(a_dictionary):
 
-     def divisible_by_2(my_list=[]):
+     def best_score(a_dictionary):
 
-     def delete_at(my_list=[], idx=0):
+     def multiply_list_map(my_list=[], number=0):
 
-     int is_palindrome(listint_t **head); (for C script)
+     def roman_to_int(roman_string):
+
+     def weight_average(my_list=[]):
+
+     def square_matrix_map(matrix=[]):
+
+     def complex_delete(a_dictionary, value):
 
 
 ```	
@@ -134,14 +149,12 @@ You can find the source code [here](https://github.com/holbertonschool/0x03.py)
 
 **Read or watch**:
 
-[3.1.3. Lists](https://intranet.hbtn.io/projects/241#:~:text=3.1.3.%20Lists,Program%206%20%3A%20Lists)
-[Data structures (until 5.3. Tuples and Sequences included)](https://intranet.hbtn.io/rltoken/gUEiytlF3ZgpQ8W9MXzQKw)
-[Learn to Program 6 : Lists](https://intranet.hbtn.io/rltoken/smot10KJXMP-a84UxJ7WrQ)
-**Read or watch** :
 
-[![M](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/80px-Google_2015_logo.svg.png)](https://www.google.com/search?q=Writing+a+shell+in+C&sa=X&ved=2ahUKEwi6vIn-nrr0AhWbTDABHUjrAxwQ1QJ6BAgLEAE&biw=1378&bih=708&dpr=1.25)
+[Data structures](https://docs.python.org/3/tutorial/datastructures.html)
 
-[![M](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/70px-Logo_of_YouTube_%282015-2017%29.svg.png)](https://www.youtube.com/watch?v=z4LEuxMGGs8)
+[Lambda, filter, reduce and map](https://python-course.eu/advanced-python/lambda-filter-reduce-map.php)
+
+[Learn to Program 12 Lambda Map Filter Reduce](https://www.youtube.com/watch?v=1GAC6KQUPeg)
 
 
 
