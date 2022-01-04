@@ -62,7 +62,7 @@ What are the map, reduce and filter functions
 	
 >[4-only_diff_elements.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py)--> function that returns a set of all elements present in only one set.
 
->[File: 5-number_keys.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py)--> Function that that returns the number of keys in a dictionary.
+>[5-number_keys.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py)--> Function that that returns the number of keys in a dictionary.
 	
 >[6-print_sorted_dictionary.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py)-->  Function that prints a a dictionary by ordered keys.
 
