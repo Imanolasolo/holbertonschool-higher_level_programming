@@ -50,40 +50,40 @@ What are the map, reduce and filter functions
 	
 ## Dependences 
 	
-> [0-square_matrix_simple.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py) --> Function that computes the square value of all integers of a matrix.
+> [0-square_matrix_simple.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/0-square_matrix_simple.py) --> Function that computes the square value of all integers of a matrix.
 
-> [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/README.md) ---> README file to show the project insights. 
+> [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/README.md) ---> README file to show the project insights. 
 
->[1-search_replace.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py) ---> Function that replaces all occurrences of an element by another in a new list.
+>[1-search_replace.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py) ---> Function that replaces all occurrences of an element by another in a new list.
 
->[2-uniq_add.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/2-replace_in_list.py) ---> Function that adds all unique integers in a list (only once for each integer).
+>[2-uniq_add.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py) ---> Function that adds all unique integers in a list (only once for each integer).
 
->[ 3-common_elements.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/3-print_reversed_list_integer.py)--> Function that returns a set of common elements in two sets.
+>[ 3-common_elements.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py) --> Function that returns a set of common elements in two sets.
 	
->[4-only_diff_elements.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py)--> function that returns a set of all elements present in only one set.
+>[4-only_diff_elements.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/4-only_diff_elements.py)--> function that returns a set of all elements present in only one set.
 
->[5-number_keys.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py)--> Function that that returns the number of keys in a dictionary.
+>[5-number_keys.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/5-number_keys.py)--> Function that that returns the number of keys in a dictionary.
 	
->[6-print_sorted_dictionary.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py)-->  Function that prints a a dictionary by ordered keys.
+>[6-print_sorted_dictionary.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/6-print_sorted_dictionary.py)-->  Function that prints a a dictionary by ordered keys.
 
 	
->[7-update_dictionary.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py)--> Function that that replaces or adds key/value in a dictionary.
+>[7-update_dictionary.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/7-update_dictionary.py)--> Function that that replaces or adds key/value in a dictionary.
 	
->[8-simple_delete.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/8-multiple_returns.py)-> Function that deletes a key in a dictionary
+>[8-simple_delete.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/8-simple_delete.py)-> Function that deletes a key in a dictionary
 
->[9-multiply_by_2.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/9-max_integer.py)---> Function that returns a new dictionary with all values multiplied by 2
+>[9-multiply_by_2.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/9-multiply_by_2.py)---> Function that returns a new dictionary with all values multiplied by 2
 
->[10-best_score.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/10-divisible_by_2.py)-->Function that returns a key with the biggest integer value.
+>[10-best_score.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/10-best_score.py)-->Function that returns a key with the biggest integer value.
 
->[11-multiply_list_map.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py)--> Function that  returns a list with all values multiplied by a number without using any loops
+>[11-multiply_list_map.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/11-multiply_list_map.py)--> Function that  returns a list with all values multiplied by a number without using any loops
 
->[12-roman_to_int.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py)--> Function that converts a Roman numeral to an integer
+>[12-roman_to_int.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/12-roman_to_int.py)--> Function that converts a Roman numeral to an integer
 
->[100-weight_average.py]()--> Function that returns the weighted average of all integers tuple (score, weight)
+>[100-weight_average.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/100-weight_average.py)--> Function that returns the weighted average of all integers tuple (score, weight)
 
->[101-square_matrix_map.py]()--> function that computes the square value of all integers of a matrix using map
+>[101-square_matrix_map.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/101-square_matrix_map.py)--> function that computes the square value of all integers of a matrix using map
 
->[102-complex_delete.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/lists.h)-->Function that deletes keys with a specific value in a dictionary
+>[102-complex_delete.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/102-complex_delete.py)-->Function that deletes keys with a specific value in a dictionary
 	
 
 
