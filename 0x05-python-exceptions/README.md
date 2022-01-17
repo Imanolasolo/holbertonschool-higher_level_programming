@@ -44,25 +44,25 @@ This directory contains a collection of files, functions, structs and scripts us
 	
 ## Dependences 
 	
-> [0-safe_print_list.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/0-square_matrix_simple.py) --> Function that that prints x elements of a list..
+> [0-safe_print_list.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x05-python-exceptions/0-safe_print_list.py) --> Function that that prints x elements of a list..
 
-> [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/README.md) ---> README file to show the project insights. 
+> [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x05-python-exceptions/README.md) ---> README file to show the project insights. 
 
->[1-safe_print_integer.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py) ---> Function prints an integer with `"{:d}".format()`.
+>[1-safe_print_integer.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x05-python-exceptions/1-safe_print_integer.py) ---> Function prints an integer with `"{:d}".format()`.
 
->[2-safe_print_list_integers.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py) ---> Function that that prints the first `x` elements of a list and only integers.
+>[2-safe_print_list_integers.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x05-python-exceptions/2-safe_print_list_integers.py) ---> Function that that prints the first `x` elements of a list and only integers.
 
->[3-safe_print_division.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py) --> Function that divides 2 integers and prints the result.
+>[3-safe_print_division.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x05-python-exceptions/3-safe_print_division.py) --> Function that divides 2 integers and prints the result.
 	
->[4-list_division.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/4-only_diff_elements.py)--> function that divides element by element 2 lists.
+>[4-list_division.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x05-python-exceptions/4-list_division.py)--> function that divides element by element 2 lists.
 
->[5-raise_exception.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/5-number_keys.py)--> Function that raises a type exception.
+>[5-raise_exception.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x05-python-exceptions/5-raise_exception.py)--> Function that raises a type exception.
 	
->[6-raise_exception_msg.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/6-print_sorted_dictionary.py)-->  Function that raises a name exception with a message.
+>[6-raise_exception_msg.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x05-python-exceptions/6-raise_exception_msg.py)-->  Function that raises a name exception with a message.
 	
->[100-safe_print_integer_err.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/7-update_dictionary.py)--> Function that function that prints an integer.
+>[100-safe_print_integer_err.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x05-python-exceptions/100-safe_print_integer_err.py)--> Function that function that prints an integer.
 	
->[101-safe_function.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/8-simple_delete.py)-> Function that executes a function safely.
+>[101-safe_function.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x05-python-exceptions/101-safe_function.py)-> Function that executes a function safely.
 
 
 ## Installing, compiling and using
