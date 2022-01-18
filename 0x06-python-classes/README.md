@@ -84,7 +84,7 @@ This directory contains a collection of files, functions, structs and scripts us
 	
 >[6-square.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/6-square.py)-->  Class Square that defines a square by: (based on 5-square.py)
 	
->[100-singly_linked_list.py]https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/100-singly_linked_list.py)--> Class Node that defines a node of a singly linked list
+>[100-singly_linked_list.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/100-singly_linked_list.py)--> Class Node that defines a node of a singly linked list
 	
 >[101-square.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/101-square.py)-> Class Square that defines a square by: (based on 6-square.py)
 
