@@ -45,7 +45,7 @@ This directory contains a collection of files, functions, structs and scripts us
 
 > [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/README.md) ---> README file to show the project insights. 
 
->[2-matrix_divided.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/1-square.py) ---> function that prints ``My name is <first name> <last name>``
+>[2-matrix_divided.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/1-square.py) --->  function that divides all elements of a matrix.
 
 >[3-say_my_name.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/2-square.py) --->  function that prints My name is ``<first name> <last name>``
 
@@ -101,7 +101,9 @@ def lazy_matrix_mul(m_a, m_b):
 
 
 [doctest](https://intranet.hbtn.io/rltoken/alaT1C9CeCbkRKh-yjMRww) — Test interactive Python examples (until “26.2.3.7. Warnings” included)
+
 [doctest](https://intranet.hbtn.io/rltoken/cpEYbv_Z55QrSVRiuG5tUw) – Testing through documentation
+
 [Unit_Tests_in_Python](https://intranet.hbtn.io/rltoken/CELicn3K8hODQsWZak_h0g)
 
 
