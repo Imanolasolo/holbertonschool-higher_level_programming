@@ -71,28 +71,28 @@ implementation)
 
 ```
 
->[3-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/3-square.py) --> In the following code, do a and b point to the same object? Answer with Yes or No.
+>[3-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/3-answer.txt) --> In the following code, do a and b point to the same object? Answer with Yes or No.
 
 ```
 >>> a = 89
 >>> b = 89
 ```
 	
->[4-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/4-square.py)--> In the following code, do a and b point to the same object? Answer with Yes or No.
+>[4-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/4-answer.txt)--> In the following code, do a and b point to the same object? Answer with Yes or No.
 
 ```
 >>> a = 89
 >>> b = a
 ```
 
->[5-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/5-square.py)--> In the following code, do a and b point to the same object? Answer with Yes or No.
+>[5-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/5.answer.txt)--> In the following code, do a and b point to the same object? Answer with Yes or No.
 
 ```
 >>> a = 89
 >>> b = a + 1
 ```
 	
->[6-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/6-square.py)-->  What do these 3 lines print?
+>[6-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/6-answer.txt)-->  What do these 3 lines print?
 
 ```
 >>> s1 = "Best School"
@@ -100,7 +100,7 @@ implementation)
 >>> print(s1 == s2)
 ```
 	
->[7-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/100-singly_linked_list.py)--> What do these 3 lines print?
+>[7-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/7-answer.txt)--> What do these 3 lines print?
 
 ```
 >>> s1 = "Best"
@@ -108,7 +108,7 @@ implementation)
 >>> print(s1 is s2)
 ```
 	
->[8-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/101-square.py)-> What do these 3 lines print?
+>[8-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/8.answer.txt)-> What do these 3 lines print?
 
 ```
 >>> s1 = "Best School"
@@ -116,7 +116,7 @@ implementation)
 >>> print(s1 == s2)
 ```
 
->[9-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/102-square.py) --> What do these 3 lines print?
+>[9-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/9.answer.txt) --> What do these 3 lines print?
 
 ```
 >>> s1 = "Best School"
@@ -124,7 +124,7 @@ implementation)
 >>> print(s1 is s2)
 ```
 
->[10-answer.txt]() --> What do these 3 lines print?
+>[10-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/10-answer.txt) --> What do these 3 lines print?
 
 ```
 >>> l1 = [1, 2, 3]
@@ -132,7 +132,7 @@ implementation)
 >>> print(l1 == l2)
 ```
 
->[11-answer.txt]()--> What do these 3 lines print?
+>[11-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/11-answer.txt)--> What do these 3 lines print?
 
 ```
 >>> l1 = [1, 2, 3]
@@ -140,7 +140,7 @@ implementation)
 >>> print(l1 is l2)
 ```
 
->[12-answer.txt]() --> What do these 3 lines print?
+>[12-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/12-answer.txt) --> What do these 3 lines print?
 
 ```
 >>> l1 = [1, 2, 3]
@@ -148,7 +148,7 @@ implementation)
 >>> print(l1 == l2)
 ```
 
->[13-answer.txt]() --> What do these 3 lines print?
+>[13-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/13-answer.txt) --> What do these 3 lines print?
 
 ```
 >>> l1 = [1, 2, 3]
@@ -156,7 +156,7 @@ implementation)
 >>> print(l1 is l2)
 ```
 
->[14-answer.txt]() --> What does this script print?
+>[14-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/14-answer.txt) --> What does this script print?
 
 ```
 l1 = [1, 2, 3]
@@ -165,7 +165,7 @@ l1.append(4)
 print(l2)
 ```
 
->[15-answer.txt]() --> What does this script print?
+>[15-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/15-answer.txt) --> What does this script print?
 
 ```
 l1 = [1, 2, 3]
@@ -174,9 +174,18 @@ l1 = l1 + [4]
 print(l2)
 ```
 
->[16-answer.txt]() --> What does this script print?
+>[16-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/16-answer%20.txt) --> What does this script print?
 
->[17-answer.txt]() --> What does this script print?
+```
+def increment(n):
+    n += 1
+
+a = 1
+increment(a)
+print(a)
+```
+
+>[17-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/17-answer.txt) --> What does this script print?
 
 ```
 def increment(n):
@@ -187,7 +196,7 @@ increment(l)
 print(l)
 ```
 
->[18-answer.txt]() --> What does this script print?
+>[18-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/18-answer.txt) --> What does this script print?
 
 ```
 def assign_value(n, v):
@@ -199,21 +208,21 @@ assign_value(l1, l2)
 print(l1)
 ```
 
->[19-copy_list.py]() --> Write a function `def copy_list(l):` that returns a copy of a list.
+>[19-copy_list.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/19-copy_list.py) --> Write a function `def copy_list(l):` that returns a copy of a list.
 
->[20-answer.txt]() --> `a = ()`
+>[20-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/20-answer.txt) --> `a = ()`
 Is a a tuple? Answer with Yes or No.
 
->[21-answer.txt]() --> `a = (1, 2)`
+>[21-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/21-answer.txt) --> `a = (1, 2)`
 Is a a tuple? Answer with Yes or No.
 
->[22-answer.txt]() --> `a = (1)`
+>[22-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/22-answer.txt) --> `a = (1)`
 Is a a tuple? Answer with Yes or No.
 
->[23-answer.txt]() --> `a = (1, )`
+>[23-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/23-answer.txt) --> `a = (1, )`
 Is a a tuple? Answer with Yes or No.
 
->[24-answer.txt]() --> What does this script print?
+>[24-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/24-answer.txt) --> What does this script print?
 
 ```
 a = (1)
@@ -221,7 +230,7 @@ b = (1)
 a is b
 ```
 
->[25-answer.txt]() --> What does this script print?
+>[25-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/25-answer.txt) --> What does this script print?
 
 ```
 a = (1, 2)
@@ -229,7 +238,7 @@ b = (1, 2)
 a is b
 ```
 
->[26-answer.txt]() --> What does this script print?
+>[26-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/26-answer.txt) --> What does this script print?
 
 ```
 a = ()
@@ -237,7 +246,7 @@ b = ()
 a is b
 ```
 
->[27-answer.txt]() --> 
+>[27-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/28-answer.txt) --> 
 ```
 >>> id(a)
 139926795932424
