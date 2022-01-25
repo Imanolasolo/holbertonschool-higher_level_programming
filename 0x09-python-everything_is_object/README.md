@@ -57,16 +57,19 @@ implementation)
 	
 ## Dependences 
 	
-> [0-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/0-square.py) --> What function would you use to print the type of an object?
+> [0-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/0-answer.txt) --> What function would you use to print the type of an object?
 
-> [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/README.md) ---> README file to show the project insights. 
+> [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/README.md) ---> README file to show the project insights. 
 
->[1-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/1-square.py) ---> How do you get the variable identifier (which is the memory address in the CPython implementation)?
+>[1-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/1-answer.txt) ---> How do you get the variable identifier (which is the memory address in the CPython implementation)?
 
->[2-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/2-square.py) ---> In the following code, do a and b point to the same object? Answer with Yes or No.
+>[2-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/2-answer.txt) ---> In the following code, do a and b point to the same object? Answer with Yes or No.
 
+```
 >>> a = 89
 >>> b = 100
+
+```
 
 >[3-answer.txt](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/3-square.py) --> In the following code, do a and b point to the same object? Answer with Yes or No.
 
