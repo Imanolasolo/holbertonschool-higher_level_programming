@@ -1,4 +1,4 @@
-# 0x09. Python - Everything is object
+# 0x0A. Python - Inheritance
 
 <div style="text-align: justify">
 
