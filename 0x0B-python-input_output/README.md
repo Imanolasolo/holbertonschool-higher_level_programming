@@ -54,37 +54,37 @@ This directory contains a collection of files, functions, structs and scripts us
 	
 ## Dependences 
 	
-> [0-read_file.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/0-answer.txt) --> function that reads a text file (UTF8) and prints it to stdout
+> [0-read_file.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/0-read_file.py) --> function that reads a text file (UTF8) and prints it to stdout
 
-> [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/README.md) ---> README file to show the project insights. 
+> [README.md](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/README.md) ---> README file to show the project insights. 
 
->[1-write_file.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/1-answer.txt) ---> function that writes a string to a text file (UTF8) and returns the number of characters written.
+>[1-write_file.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/1-write_file.py) ---> function that writes a string to a text file (UTF8) and returns the number of characters written.
 
->[2-append_write.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/2-answer.txt) --->  function that returns the JSON representation of an object (string)
+>[2-append_write.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/2-append_write.py) --->  function that returns the JSON representation of an object (string)
 
->[3-to_json_string.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/3-answer.txt) --> function that returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False.
+>[3-to_json_string.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/3-to_json_string.py) --> function that returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False.
 	
->[4-from_json_string.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/4-answer.txt)-->function that returns an object (Python data structure) represented by a JSON string
+>[4-from_json_string.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/4-from_json_string.py)-->function that returns an object (Python data structure) represented by a JSON string
 
->[5-save_to_json_file.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/5.answer.txt)--> function that writes an Object to a text file, using a JSON representation
+>[5-save_to_json_file.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/5-save_to_json_file.py)--> function that writes an Object to a text file, using a JSON representation
 	
->[6-load_from_json_file.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/6-answer.txt)-->  function that creates an Object from a “JSON file”
+>[6-load_from_json_file.py]https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/6-load_from_json_file.py)-->  function that creates an Object from a “JSON file”
 	
->[7-add_item.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/7-answer.txt)--> script that adds all arguments to a Python list, and then save them to a file
+>[7-add_item.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/7-add_item.py)--> script that adds all arguments to a Python list, and then save them to a file
 	
->[8-class_to_json.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/8.answer.txt)->  function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object
+>[8-class_to_json.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/8-class_to_json.py)->  function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object
 
->[9-student.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/9.answer.txt) --> class Student that defines a student by
+>[9-student.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/9-student.py) --> class Student that defines a student by
 
->[10-student.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/10-answer.txt) --> class Student that defines a student by: (based on 9-student.py)
+>[10-student.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/10-student.py) --> class Student that defines a student by: (based on 9-student.py)
 
->[11-student.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/11-answer.txt)--> class Student that defines a student by: (based on 10-student.py)
+>[11-student.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/11-student.py)--> class Student that defines a student by: (based on 10-student.py)
 
->[12-pascal_triangle.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/12-answer.txt) -->  function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n
+>[12-pascal_triangle.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/12-pascal_triangle.py) -->  function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n
 
->[101-add_attribute.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/13-answer.txt) --> function that inserts a line of text to a file, after each line containing a specific string (see example)
+>[100-add_attribute.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/101-stats.py) --> function that inserts a line of text to a file, after each line containing a specific string (see example)
 
->[101-stats.py]() --> script that reads stdin line by line and computes metrics
+>[101-stats.py](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/101-stats.py) --> script that reads stdin line by line and computes metrics
 
 ## Installing, compiling and using
 	
