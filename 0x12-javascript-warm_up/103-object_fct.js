@@ -1,5 +1,5 @@
 #!/usr/bin/node
-//File: 103-object_fct.js
+// File: 103-object_fct.js
 // By: Imanol Asolo (CodeCodix)
 const myObject = {
   type: 'object',
