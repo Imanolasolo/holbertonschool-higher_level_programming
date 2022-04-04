@@ -184,6 +184,7 @@ Write a script that prints two arguments passed to it, in the following format: 
 *   You must use `console.log(...)` to print all output
 *   You are not allowed to use `var`
 
+    ```
     guillaume@ubuntu:~/0x12$ ./4-concat.js c cool
     c is cool
     guillaume@ubuntu:~/0x12$ ./4-concat.js c 
@@ -191,7 +192,7 @@ Write a script that prints two arguments passed to it, in the following format: 
     guillaume@ubuntu:~/0x12$ ./4-concat.js
     undefined is undefined
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 **Repo:**
 
@@ -208,6 +209,7 @@ Write a script that prints `My number: <first argument converted in integer>` if
 *   You are not allowed to use `var`
 *   You are not allowed to use `try/catch`
 
+    ```
     guillaume@ubuntu:~/0x12$ ./5-to_integer.js 
     Not a number
     guillaume@ubuntu:~/0x12$ ./5-to_integer.js 89
@@ -219,7 +221,7 @@ Write a script that prints `My number: <first argument converted in integer>` if
     guillaume@ubuntu:~/0x12$ ./5-to_integer.js School
     Not a number
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 **Repo:**
 
@@ -240,12 +242,13 @@ Write a script that prints 3 lines: (like `1-multi_languages.js`) but by using a
 *   You can use only one `console.log`
 *   You must use a loop (`while`, `for`, etc.)
 
+    ```
     guillaume@ubuntu:~/0x12$ ./6-multi_languages_loop.js 
     C is fun
     Python is cool
     JavaScript is amazing
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 **Repo:**
 
@@ -264,6 +267,7 @@ Write a script that prints `x` times “C is fun”
 *   You can use only two `console.log`
 *   You must use a loop (`while`, `for`, etc.)
 
+    ```
     guillaume@ubuntu:~/0x12$ ./7-multi_c.js 2
     C is fun
     C is fun
@@ -277,7 +281,7 @@ Write a script that prints `x` times “C is fun”
     Missing number of occurrences
     guillaume@ubuntu:~/0x12$ ./7-multi_c.js -3
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 **Repo:**
 
@@ -296,6 +300,7 @@ Write a script that prints a square
 *   You are not allowed to use `var`
 *   You must use a loop (`while`, `for`, etc.)
 
+    ```
     guillaume@ubuntu:~/0x12$ ./8-square.js
     Missing size
     guillaume@ubuntu:~/0x12$ ./8-square.js School
@@ -312,7 +317,7 @@ Write a script that prints a square
     XXXXXX
     guillaume@ubuntu:~/0x12$ ./8-square.js -3
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 **Repo:**
 
@@ -330,6 +335,7 @@ Write a script that prints the addition of 2 integers
 *   You must use `console.log(...)` to print all output
 *   You are not allowed to use `var`
 
+    ```
     guillaume@ubuntu:~/0x12$ ./9-add.js 
     NaN
     guillaume@ubuntu:~/0x12$ ./9-add.js 1
@@ -339,7 +345,8 @@ Write a script that prints the addition of 2 integers
     guillaume@ubuntu:~/0x12$ ./9-add.js 13 89
     102
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
+
 
 **Repo:**
 
@@ -358,6 +365,7 @@ Write a script that computes and prints a factorial
 *   You must use `console.log(...)` to print all output
 *   You are not allowed to use `var`
 
+    ```
     guillaume@ubuntu:~/0x12$ ./10-factorial.js 
     1
     guillaume@ubuntu:~/0x12$ ./10-factorial.js 3
@@ -367,7 +375,7 @@ Write a script that computes and prints a factorial
     guillaume@ubuntu:~/0x12$ ./10-factorial.js 333
     Infinity
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 **Repo:**
 
@@ -385,6 +393,7 @@ Write a script that searches the second biggest integer in the list of arguments
 *   You must use `console.log(...)` to print all output
 *   You are not allowed to use `var`
 
+    ```
     guillaume@ubuntu:~/0x12$ ./11-second_biggest.js 
     0
     guillaume@ubuntu:~/0x12$ ./11-second_biggest.js 1
@@ -392,7 +401,7 @@ Write a script that searches the second biggest integer in the list of arguments
     guillaume@ubuntu:~/0x12$ ./11-second_biggest.js 4 2 5 3 0 -3
     4
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 **Repo:**
 
@@ -406,6 +415,7 @@ Update this script to replace the value `12` with `89`:
 
 *   You are not allowed to use `var`
 
+    ```
     guillaume@ubuntu:~/0x12$ cat 12-object.js
     #!/usr/bin/node
     const myObject = {
@@ -422,7 +432,7 @@ Update this script to replace the value `12` with `89`:
     { type: 'object', value: 12 }
     { type: 'object', value: 89 }
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 **Repo:**
 
@@ -440,6 +450,7 @@ Write a function that returns the addition of 2 integers.
 
 [Tip](https://intranet.hbtn.io/rltoken/M3uMoMlngAtefSYF1c7PNQ "Tip")
 
+    ```
     guillaume@ubuntu:~/0x12$ cat 13-main.js
     #!/usr/bin/node
     const add = require('./13-add').add;
@@ -447,7 +458,7 @@ Write a function that returns the addition of 2 integers.
     guillaume@ubuntu:~/0x12$ ./13-main.js
     8
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 **Repo:**
 
@@ -459,6 +470,7 @@ Write a function that returns the addition of 2 integers.
 
 Write a file that modifies the value of `myVar` to `333`
 
+    ```
     guillaume@ubuntu:~/0x12$ cat 100-main.js
     #!/usr/bin/node
     myVar = 89;
@@ -467,7 +479,7 @@ Write a file that modifies the value of `myVar` to `333`
     guillaume@ubuntu:~/0x12$ ./100-main.js
     333
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 ![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/4ae30fb44f708dbb3abc211b784db614e615ca21.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220404%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220404T193307Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1c836e58929f1f8b6d7c6ae0ce70f7d4001807655769f323f1a55c5db1c4ce15)
 
@@ -491,6 +503,7 @@ Write a function that executes `x` times a function.
 *   Prototype: `function (x, theFunction)`
 *   You are not allowed to use `var`
 
+    ```
     guillaume@ubuntu:~/0x12$ cat 101-main.js
     #!/usr/bin/node
     const callMeMoby = require('./101-call_me_moby').callMeMoby;
@@ -502,7 +515,7 @@ Write a function that executes `x` times a function.
     C is fun
     C is fun
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 **Repo:**
 
@@ -518,6 +531,7 @@ Write a function that increments and calls a function.
 *   Prototype: `function (number, theFunction)`
 *   You are not allowed to use `var`
 
+    ```
     guillaume@ubuntu:~/0x12$ cat 102-main.js
     #!/usr/bin/node
     const addMeMaybe = require('./102-add_me_maybe').addMeMaybe;
@@ -527,7 +541,7 @@ Write a function that increments and calls a function.
     guillaume@ubuntu:~/0x12$ ./102-main.js
     New value: 5
     guillaume@ubuntu:~/0x12$ 
-    
+    ```
 
 **Repo:**
 
@@ -541,6 +555,7 @@ Update this script by adding a new function `incr` that increments the integer `
 
 *   You are not allowed to use `var`
 
+    ```
     guillaume@ubuntu:~/0x12$ cat 103-object_fct.js
     #!/usr/bin/node
     const myObject = {
@@ -564,8 +579,8 @@ Update this script by adding a new function `incr` that increments the integer `
     { type: 'object', value: 14, incr: [Function] }
     { type: 'object', value: 15, incr: [Function] }
     guillaume@ubuntu:~/0x12$ 
+    ```
     
-
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
@@ -585,6 +600,7 @@ Update this script by adding a new function `incr` that increments the integer `
 ## Author(s):blue_book:
 
 Work is owned and maintained by:
+
 * Imanol Asolo <[3848](mailto:3848@holbertonschool.com)> [![M](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/25px-Octicons-mark-github.svg.png)](https://github.com/Imanolasolo) [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/25px-Twitter_Bird.svg.png)](https://twitter.com/jjusturi) [![M](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/25px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/imanol-asolo-5ba9b42a/)
 
 
