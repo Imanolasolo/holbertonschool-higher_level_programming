@@ -120,7 +120,7 @@ Write a class `Rectangle` that defines a rectangle:
     2
     undefined
     guillaume@ubuntu:~/0x13$ 
-   ``` 
+    ``` 
 
 **Repo:**
 
