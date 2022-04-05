@@ -1,6 +1,6 @@
 #!/usr/bin/node
 // File: 6-square.js
-// By: Imanol Asolo (CodeCodix)
+// By: Imanol Asolo(CodeCodix)
 module.exports = class Square extends require('./5-square.js') {
   charPrint (c) {
     if (c === undefined) {
