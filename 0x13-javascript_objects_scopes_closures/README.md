@@ -570,3 +570,32 @@ Write a script that concats 2 files.
 *   Directory: `0x13-javascript_objects_scopes_closures`
 *   File: [102-concat.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/102-concat.js)
 
+## Installing, compiling and using
+	
+> Only install cloning this repository on your local device:  https://github.com/Imanolasolo/holbertonschool-higher_level_programming.git
+	
+> make executable the programs with `chmod +x` followed with .js file and name of executable file.
+	
+> Run the executable `main` files with `./` followed with the `.js` file
+
+## Credits
+
+## Author(s):blue_book:
+
+Work is owned and maintained by:
+
+* Imanol Asolo <[3848](mailto:3848@holbertonschool.com)> [![M](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/25px-Octicons-mark-github.svg.png)](https://github.com/Imanolasolo) [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/25px-Twitter_Bird.svg.png)](https://twitter.com/jjusturi) [![M](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/25px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/imanol-asolo-5ba9b42a/)
+
+
+## Acknowledgments :mega: 
+
+### **`Holberton School`** (*providing guidance*)
+This program was written as part of the curriculum for Holberton School.
+Holberton School is a campus-based full-stack software engineering program
+that prepares students for careers in the tech industry using project-based
+peer learning. For more information, visit [this link](https://www.holbertonschool.com/).
+<p align="center">
+	<img src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg" alt="This is a secret;)">
+</p>
+
+
