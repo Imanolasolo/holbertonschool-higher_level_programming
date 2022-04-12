@@ -61,7 +61,7 @@ Write a JavaScript script that updates the text color of the `<header>` element 
 
 Please test with this HTML file in your browser:
 
-    ```
+    
     guillaume@ubuntu:~/0x15$ cat 0-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -79,14 +79,14 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$ 
-    ```
+    
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [0-script.js]()
+*   File: [0-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/0-script.js)
 
 ### 1\. With JQuery
 
@@ -97,7 +97,7 @@ Write a JavaScript script that updates the text color of the `<header>` element 
 
 Please test with this HTML file in your browser:
 
-    ```
+    
     guillaume@ubuntu:~/0x15$ cat 1-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -116,15 +116,13 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$
-
-    ```
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [1-script.js]()
+*   File: [1-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/1-script.js)
 
 ### 2\. Click and turn red
 
@@ -135,7 +133,7 @@ Write a JavaScript script that updates the text color of the `<header>` element 
 
 Please test with this HTML file in your browser:
 
-    ```
+   
     guillaume@ubuntu:~/0x15$ cat 2-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -155,14 +153,14 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$ 
-    ```
+   
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [2-script.js]()
+*   File: [2-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/2-script.js)
 
 ### 3\. Add \`.red\` class
 
@@ -173,7 +171,7 @@ Write a JavaScript script that adds the class `red` to the `<header>` element wh
 
 Please test with this HTML file in your browser:
 
-    ```
+    
     guillaume@ubuntu:~/0x15$ cat 3-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -198,14 +196,14 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$
-    ``` 
+     
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [3-script.js]()
+*   File: [3-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/3-script.js)
 
 ### 4\. Toggle classes
 
@@ -218,7 +216,7 @@ Write a JavaScript script that toggles the class of the `<header>` element when 
 
 Please test with this HTML file in your browser:
 
-    ```
+    
     guillaume@ubuntu:~/0x15$ cat 4-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -246,14 +244,14 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$
-    ``` 
+     
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [4-script.js]()
+*   File: [4-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/4-script.js)
 
 ### 5\. List of elements
 
@@ -266,7 +264,7 @@ Write a JavaScript script that adds a `<li>` element to a list when the user cli
 
 Please test with this HTML file in your browser:
 
-    ```
+    
     guillaume@ubuntu:~/0x15$ cat 5-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -291,14 +289,14 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$
-    ```
+    
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [5-script.js]()
+*   File: [5-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/5-script.js)
 
 ### 6\. Change the text
 
@@ -309,7 +307,7 @@ Write a JavaScript script that updates the text of the `<header>` element to `Ne
 
 Please test with this HTML file in your browser:
 
-    ```
+   
     guillaume@ubuntu:~/0x15$ cat 6-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -331,14 +329,14 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$
-    ```
+    
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [6-script.js]()
+*   File: [6-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/6-script.js)
 
 ### 7\. Star wars character
 
@@ -350,7 +348,7 @@ Write a JavaScript script that fetches the character `name` from this URL: `http
 
 Please test with this HTML file in your browser:
 
-    ```
+    
     guillaume@ubuntu:~/0x15$ cat 7-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -372,14 +370,14 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$
-    ```
+    
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [7-script.js]()
+*   File: [7-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/7-script.js)
 
 ### 8\. Star Wars movies
 
@@ -419,7 +417,7 @@ Please test with this HTML file in your browser:
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [8-script.js]()
+*   File: [8-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/8-script.js)
 
 ### 9\. Say Hello!
 
@@ -432,7 +430,7 @@ Write a JavaScript script that fetches from `https://fourtonfish.com/hellosalut/
 
 Please test with this HTML file in your browser:
 
-    ```
+   
     guillaume@ubuntu:~/0x15$ cat 9-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -454,14 +452,14 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$
-    ```
+    
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [9-script.js]()
+*   File: [9-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/9-script.js)
 
 ### 10\. No jQuery - document loaded
 
@@ -473,7 +471,7 @@ Write a JavaScript script that updates the text color of the `<header>` element 
 
 Please test with this HTML file in your browser:
 
-    ```
+    
     guillaume@ubuntu:~/0x15$ cat 100-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -491,7 +489,7 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$
-    ```
+    
 
     
 
@@ -499,7 +497,7 @@ Please test with this HTML file in your browser:
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [100-script.js]()
+*   File: [100-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/100-script.js)
 
 ### 11\. List, add, remove
 
@@ -516,7 +514,7 @@ Write a JavaScript script that adds, removes and clears `LI` elements from a lis
 
 Please test with this HTML file in your browser:
 
-    ```
+    
     guillaume@ubuntu:~/0x15$ cat 101-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -543,14 +541,14 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$ 
-    ```
+    
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [101-script.js]()
+*   File: [101-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/101-script.js)
 
 ### 12\. Say hello to everybody!
 
@@ -566,7 +564,7 @@ Write a JavaScript script that fetches and prints how to say “Hello” dependi
 
 Please test with this HTML file in your browser:
 
-    ```
+    
     guillaume@ubuntu:~/0x15$ cat 102-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -591,14 +589,14 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$
-    ```
+    
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [102-script.js]()
+*   File: [102-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/102-script.js)
 
 ### 13\. And press ENTER
 
@@ -614,7 +612,7 @@ Write a JavaScript script that fetches and prints how to say “Hello” dependi
 
 Please test with this HTML file in your browser:
 
-    ```
+    
     guillaume@ubuntu:~/0x15$ cat 103-main.html 
     <!DOCTYPE html>
     <html lang="en">
@@ -639,14 +637,14 @@ Please test with this HTML file in your browser:
       </body>
     </html>
     guillaume@ubuntu:~/0x15$
-    ``` 
+     
     
 
 **Repo:**
 
 *   GitHub repository: `holbertonschool-higher_level_programming`
 *   Directory: `0x15-javascript-web_jquery`
-*   File: [103-script.js]()
+*   File: [103-script.js](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/103-script.js)
 
 ## Installing, compiling and using
 	
