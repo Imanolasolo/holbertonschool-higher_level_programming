@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# By: Imanol Asolo
 """Defines a peak-finding algorithm."""
 
 
